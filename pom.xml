@@ -6,7 +6,8 @@
     
 	<groupId>fr.uga.miage.m1</groupId> 
 	<artifactId>dilemmastrategy</artifactId> 
-	<version>0.0.1-SNAPSHOT</version> 
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 
     <name>dilemmastrategy-main</name>
     <url>https://github.com/l3miage-hebertco/dilemmastrategy-main</url>
